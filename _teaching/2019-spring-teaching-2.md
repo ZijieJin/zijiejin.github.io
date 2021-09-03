@@ -1,5 +1,5 @@
 ---
-title: "Calculus II (B) Exercise Class"
+title: "Calculus II (B) 2019 Spring"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching-2
