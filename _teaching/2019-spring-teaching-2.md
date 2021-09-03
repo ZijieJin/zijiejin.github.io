@@ -9,3 +9,7 @@ location: "Beijing, China"
 ---
 
 Really happy with my students.
+
+One anonymous student gave me the small gift.
+
+![gift1](https://zijiejin.github.io/images/2019spring1.jpg)
