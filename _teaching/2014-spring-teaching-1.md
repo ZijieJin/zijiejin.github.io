@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Peking University, Guanghua School of Managerment"
-date: 2018 Fall
+date: 2018-09-01
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+My first exercise class for calculus I(B)
