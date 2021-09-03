@@ -1,0 +1,13 @@
+---
+title: "Calculus I(B) 2019 Fall"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2019-fall-teaching-3
+venue: "Peking University, Guanghua School of Managerment"
+date: 2010-09-01
+location: "Beijing, China"
+---
+
+My students really loved me and they gave small gifts to me.
+
+
