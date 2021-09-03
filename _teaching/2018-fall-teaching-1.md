@@ -9,7 +9,6 @@ location: "Beijing, China"
 ---
 
 My first exercise class.
-
 One of my favorate student gave Christmas greeting card to me.
 
 ![card1](https://zijiejin.github.io/images/2018fall1.jpg)
