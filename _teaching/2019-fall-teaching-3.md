@@ -10,4 +10,4 @@ location: "Beijing, China"
 
 My students really loved me and they gave small gifts to me.
 ![gift1](https://zijiejin.github.io/images/IMG_5402.jpg)
-![gift2](https://zijiejin.github.io/images/IMG_5276.HEIC)
+![gift2](https://zijiejin.github.io/images/IMG_5276.jpg)
