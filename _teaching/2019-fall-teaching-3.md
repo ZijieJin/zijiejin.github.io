@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3
 venue: "Peking University, Guanghua School of Managerment"
-date: 2010-09-01
+date: 2019-09-01
 location: "Beijing, China"
 ---
 
