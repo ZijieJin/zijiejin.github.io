@@ -9,3 +9,5 @@ location: "Beijing, China"
 ---
 
 A talk to students from Lanzhou University
+
+[Download slides here](http://zijiejin.github.io/files/paper1.pdf)
