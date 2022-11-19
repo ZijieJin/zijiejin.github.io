@@ -10,6 +10,8 @@ location: "Beijing, China"
 
 I really had a great time with my students/friends.
 
-One student in this class had become my good friend.
+One student in this class had become my good friend. 
+
+She sent me a handmade gift, and I will keep it all my life.
 
 ![gift1](https://zijiejin.github.io/images/IMG_5402.jpg)
