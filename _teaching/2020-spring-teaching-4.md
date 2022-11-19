@@ -3,7 +3,7 @@ title: "Calculus II (B) 2020 Spring"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-4
-venue: "Peking University, Guanghua School of Management"
+venue: "Guanghua School of Managerment, Peking University"
 date: 2020-03-01
 location: "Beijing, China"
 ---
