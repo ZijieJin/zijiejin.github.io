@@ -12,4 +12,4 @@ I really had a great time with my students/friends.
 
 One student in this class had become my good friend.
 
-![gift1](https://zijiejin.github.io/images/2019spring1.jpg)
+![gift1](https://zijiejin.github.io/images/IMG_5402.jpg)
