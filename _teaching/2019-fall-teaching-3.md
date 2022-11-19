@@ -3,7 +3,7 @@ title: "Calculus I(B) 2019 Fall"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3
-venue: "Peking University, Guanghua School of Managerment"
+venue: "Guanghua School of Managerment, Peking University"
 date: 2019-09-01
 location: "Beijing, China"
 ---
