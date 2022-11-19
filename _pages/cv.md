@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, China, 2017
-* Ph.D in Statistics and Bioinformatics, Peking University, China, 2022 (expected)
+* Special class for gifted youth, Xi'an Jiaotong University, China, 2011-2012
+* B.S. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, China, 2013-2017
+* Ph.D in Statistics and Bioinformatics, Peking University, China, 2017-2022 
 
 Experience
 ======
 * Spring 2016: Visiting Student
   * Georgia Institute of Technology, Atlanta, U.S.
+* 2022- : Postdoc
+  * Health Science Center, Peking University, China.
   
 Publications
 ======
