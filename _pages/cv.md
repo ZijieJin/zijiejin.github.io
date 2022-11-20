@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Special class for gifted youth, Xi'an Jiaotong University, China, 2011-2012
+* Special class for the gifted young, Xi'an Jiaotong University, China, 2011-2012
 * B.S. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, China, 2013-2017
   * Visiting Student at Georgia Institute of Technology, Atlanta, U.S.
 * Ph.D in Statistics and Bioinformatics, Peking University, China, 2017-2022 
