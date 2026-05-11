@@ -20,6 +20,7 @@ Education
 Working Experience
 ======
 
+* Assistant Professor, School of Mathematics and Statistics, Beijing Institute of Technology, China, 2026-
 * Postdoc, International Cancer Institute, Health Science Center, Peking University, China, 2022-2026
   
 Publications
