@@ -43,4 +43,4 @@ Teaching
   
 Service and Leadership
 ======
-* Volunteering in the Celeberation.
+* ISCB China Council.
