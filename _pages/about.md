@@ -18,5 +18,3 @@ redirect_from:
 ### 心得体会
 
 做学术最关键的就是要沉住气，遇到难题不要怕，敢于尝试，勤于思考，努力从复杂的数据中获得有价值的信息！
-
-![p1](https://zijiejin.github.io/images/IMG_5804.jpg)
