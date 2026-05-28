@@ -8,8 +8,3 @@ date: 2021-03-01
 location: "Beijing, China"
 ---
 
-It was my last chance of teaching. I loved all the students in my class.
-
-Photo:
-
-![p1](https://zijiejin.github.io/images/IMG_1085.JPG)
