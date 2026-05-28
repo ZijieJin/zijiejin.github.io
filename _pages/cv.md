@@ -25,19 +25,22 @@ Working Experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% assign publications_sorted = site.publications | sort: "date" | reverse %}
+{% for post in publications_sorted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% assign talks_sorted = site.talks | sort: "date" | reverse %}
+{% for post in talks_sorted %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% assign teaching_sorted = site.teaching | sort: "date" | reverse %}
+{% for post in teaching_sorted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
