@@ -46,4 +46,4 @@ Talks
   
 Service and Leadership
 ======
-* ISCB China Council.
+* Member of ISCB-China Council
